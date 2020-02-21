@@ -1,6 +1,6 @@
 ---
 title: "Interesting Forecasting Applications with R"
-author: "Name Surname - IE360 - Srping 2020"
+author: "Yunus Emre Karatas - IE360 - Spring 2020"
 ---
 ```{r,echo=FALSE,results="hide"}
 library(knitr)
